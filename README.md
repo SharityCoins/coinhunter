@@ -13,10 +13,10 @@ Best regards
 
 ## Authors
 
-* Connor Treacy (connortreacy)
-* Ali Parr (aliparr)
-* Marco Alvarez
-* Kristian Petersén
+* Connor Treacy (connortreacy)(Original game contributor)
+* Ali Parr (aliparr)(Original game contributor)
+* Marco Alvarez (Original game contributor)
+* Kristian Petersén 
 
 ## Installing
 
